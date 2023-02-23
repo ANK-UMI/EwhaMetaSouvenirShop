@@ -33,5 +33,6 @@
 이더스캔: https://ropsten.etherscan.io/address/0xCcD156e2c724c18b6BA8e4F224CE94668bE6990B<br>
 <br><br>
 ※ MetaMask의 'Ropsten' 테스트넷 상에서 'Ropsten 테스트 이더리움'으로 이화기념코인(ECC)를 매수할 수 있지만 테스트용 코인으로 실제로 거래할 수는 없다.
-<br>![EwhaMetaSvnrShp](https://user-images.githubusercontent.com/54223902/221043050-64b7bfae-9131-4492-8fce-a5e8be34d906.png)
+<br><br>
+![EwhaMetaSvnrShp](https://user-images.githubusercontent.com/54223902/221043050-64b7bfae-9131-4492-8fce-a5e8be34d906.png)
 
